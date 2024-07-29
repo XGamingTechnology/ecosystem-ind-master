@@ -1,0 +1,21 @@
+{
+  "menus": [
+    { "title": "About Us", "href": "/about" },
+    { "title": "Our Product", "href": "/product" },
+    { "title": "Project", "href": "/project" },
+    { "title": "Contact Us", "href": "/contact" }
+  ],
+  "footer": {
+    "contact": "Contact",
+    "business": "Business Activities",
+    "about": "PT ESI is a foreign-owned company and a branch of Trident Water Systems Pte. Ltd., Singapore. We provide solutions for industrial liquid waste processing with technology, engineering and experience as well as good project management capabilities.",
+    "activities": [
+      "System Design, Integration & Equipment Sale",
+      "System Contract (BOO/BOT)",
+      "Engineering, Procurement & Construction"
+    ]
+  },
+  "general": {
+    "readmore": "Read More"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "our-product": "Our Product",
+  "our-product-sub": "Ecosystem International employs a host of the most advanced and proven technologies and processes in its solutions",
+  "explore-our-product": "Explore Our Product!",
+  "content-ecr": {
+    "removal-reaction": "Electro Contaminant Removal Reaction",
+    "removal-reaction-sub": "Electro coagulation through the reaction chamber produces several distinct electrochemical results independently. These observed reactions could be explained as:",
+    "processes": [
+      {
+        "title": "Seeding",
+        "description": "Resulting from the anode reduction of metal ions that become new centres for larger, stable, insoluble complexes that precipitate as complex metal oxides."
+      },
+      {},
+      {
+        "title": "Emulsion breaking",
+        "description": "Resulting from the oxygen and hydrogen ions that bond into the water receptor sites of oil molecules creating a water insoluble complex separating water from oil, driller's mud, dyes, inks, etc."
+      },
+      {
+        "title": "Halogen complexing",
+        "description": "As the metal ions bind themselves to chlorines in a chlorinated hydrocarbon molecule resulting in a large insoluble complex separating water from pesticides, herbicides, chlorinated PCB's etc."
+      },
+      {
+        "title": "Bleaching",
+        "description": "by the oxygen ions produced in the reaction chamber oxidizes dyes, cyanides, bacteria, viruses, biohazards, etc."
+      },
+      {
+        "title": "Oxidation - Reduction",
+        "description": "reactions are forced to their natural end point within the chamber, which speeds up the natural process of nature that occurs in wet chemistry."
+      },
+      {
+        "title": "Electron flooding",
+        "description": "The water eliminates the polar effect of the water complex, allowing colloidal materials to precipitate, and the increase of electrons creates an osmotic pressure that ruptures bacteria, cysts, and viruses;"
+      },
+      { "title": "pH Swings", "description": "EC induced PH swings higher." }
+    ],
+    "reactions": [
+      {
+        "title": "Main Reaction-1",
+        "content": "<p> Main reactions at the electrodes are <br /> Al → Al3+ (aq) + 3e (anode) 3H2O + 3e → 3/2H2 + 3OH− (cathode) </p>"
+      },
+      {
+        "title": "Main Reaction-2",
+        "content": "<p> Meanwhile, if anode potential is sufficiently high, secondary reactions may occur also, such as direct oxidation of organic compounds and of Cl− ions present in wastewater <br /> 2Cl− → Cl2 + 2e </p>"
+      },
+      {
+        "title": "Main Reaction-3",
+        "content": "<p> The chlorine produced is a strong oxidant that can oxidize same organic compounds and promote electrode reactions. In addition, the cathode may be chemically attacked by OH− ions generated during H2 evolution at high pH values: <br /> 2Al + 6H2O + 2OH− → 2Al (OH) 4− + 3H2 </p>"
+      },
+      {
+        "title": "Main Reaction-4",
+        "content": "<div> <p> Generally, three main processes occur serially during electro coagulation: </p> <ul> <li>Electrolytic reactions at electrode surfaces.</li> <li>Formation of coagulants in aqueous phase.</li> <li> Adsorption of soluble or colloidal pollutants on coagulants, and removal by sedimentation or floatation. </li> </ul> </div>"
+      }
+    ]
+  },
+  "chemical-reaction": "ECR® - Chemical Reaction",
+  "learn-more": "Learn More About Electro Coaguation"
+}

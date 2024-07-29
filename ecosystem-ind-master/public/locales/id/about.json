@@ -1,0 +1,63 @@
+{
+  "about-eco": "Tentang Ecosystem International",
+  "vision-mission": "Visi & Misi",
+  "what-we-believe": "Apa yang Kami Percaya?",
+  "vision": "<strong>Visi Kami</strong> adalah menjadi perusahaan internasional terkemuka yang menyediakan pengolahan air limbah di Indonesia.",
+  "mission": "<strong>Misi Kami</strong> adalah menjadi pilihan utama untuk berbagai kebutuhan industri, memberikan kepuasan pelanggan melalui tim profesional kami. Fokus kami adalah pada peningkatan berkala dalam efisiensi operasional, penyelarasan strategis kegiatan bisnis dan pengembangan jaringan distribusi. Dalam hal ini, kami menjamin keberhasilan dan perkembangan berkelanjutan perusahaan.",
+  "about-us": "Tentang Kami",
+  "about-us-desc": "PT Ecosystems International merupakan anak perusahaan Singapura, yaitu Trident-flo Pte. Ltd. Spesialisasi utama kami adalah pengolahan limbah cair industri dengan mengintegrasikan berbagai macam teknologi dan sistem, termasuk teknologi patent milik sendiri yaitu Electro Contaminant Removal (ECR™) system.",
+  "certification": "Sertifikasi",
+  "our-journey": "Perjalanan Kami",
+  "journeys": [
+    {
+      "year": "2005",
+      "title": "Trident Water Systems Pte. Ltd pertama kali didirikan",
+      "description": "Unit ECR pertama dibuat dan dipatenkan setelah bertahun-tahun belajar dan bereksperimen."
+    },
+    {
+      "year": "2006",
+      "title": "PT Ecosystems International pertama kali didirikan",
+      "description": "Proyek pengolahan air limbah minyak & gas pertama dengan mengerahkan unit ECR.",
+      "highlight": true
+    },
+    {
+      "year": "2012",
+      "title": "PT Ecosystems International pertama kali didirikan",
+      "description": "Kompleks Industri Tekstil Dhaka membangun pabrik pusat dengan kapasitas 43.000 m3/hari untuk menangani air limbah dari sejumlah pabrik tekstil yang sedang berjalan."
+    },
+    {
+      "year": "2021",
+      "title": "Solar Impulse – March 2021",
+      "description": "ECR telah disertifikasi oleh Solar Impulse sebagai bagian dari Teknologi Berkelanjutan yang terintegrasi dengan Program SDG PBB"
+    },
+    {
+      "year": "Hari Ini",
+      "title": "Lebih dari 220 instalasi di seluruh dunia",
+      "description": "Termasuk SEA, Amerika Selatan, Korea Selatan dan Cina",
+      "highlight": true
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mr. Jamie Tanner",
+      "title": "Director BW Energy Services (Kazakhstan)",
+      "description": "<p>Trident-Flo and PT Ecosystems International have provided us with water treatment systems that require the highest standards of design to be able to work in the harshest of weather environment of Kazakhstan. <br /> <br /> Credit to them for being able to achieve this. We are exploring many other opportunities in Kazakhstan and Central Asia where a company like Trident-Flo and PT Ecosystems International can have a big impact to provide solutions to many challenges in the water and waste water sectors. </p>",
+      "image": "/testimonials/anon.png"
+    },
+    {
+      "name": "Benny Irawan",
+      "title": "PT Polytama Propindo",
+      "image": "/testimonials/anon.png",
+      "description": "-"
+    },
+    {
+      "name": "His Excellency Nico Barito",
+      "title": "Special Envoy of The President of Seychelles to ASEAN.",
+      "description": "<p> I have been associated with them during my pass engagement under the World Bank program on the hazardous waste water treatment in Indonesia, followed by series of public private clean water and sanitation program. <br /> <br /> Mr Theron Madhavan, the CEO of the company has been my longstanding friend for over 15 years now. Our acquaintances have been productive and realizing numerous public and private water and waste water sector. <br /> <br />I have nothing to say, but praise and admiration for the professional and competent solutions the company will provide, when it comes to water and sanitation </p>",
+      "image": "/testimonials/anon.png"
+    }
+  ],
+  "thought-leader": "Pemimpin dalam Penerapan EC",
+  "thought-leader-sub": "Memberikan kualitas produk terbaik dan tingkat kemitraan layanan pelanggan di seluruh dunia termasuk Indonesia.",
+  "what-they-said": "Apa Kata Mereka Tentang Kami?"
+}

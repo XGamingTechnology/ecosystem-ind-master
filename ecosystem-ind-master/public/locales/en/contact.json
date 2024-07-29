@@ -1,0 +1,11 @@
+{
+  "get-in-touch": "Get <span>In Touch</span>",
+  "get-in-touch-sub": "Any question or remarks? Just write us a message!",
+  "contact-us": "Contact Us",
+  "form": {
+    "name": "Full Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  }
+}

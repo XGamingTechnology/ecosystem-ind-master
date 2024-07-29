@@ -1,0 +1,11 @@
+{
+  "get-in-touch": "Get <span>In Touch</span>",
+  "get-in-touch-sub": "Ada pertanyaan atau komentar? Cukup tulis pesan kepada kami!",
+  "contact-us": "Hubungi Kami",
+  "form": {
+    "name": "Nama Lengkap",
+    "email": "Email",
+    "message": "Pesan",
+    "send": "Kirim Pesan"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "our-project": "Our Project",
+  "our-project-sub": "As per today, PT ESI has more than 500 world wide project in Water Management (Water Treatment & Waste Water Treatment).",
+  "industrial-project": "Industrial Project",
+  "projects": {
+    "industrial": [
+      {
+        "title": "CETP DHAKA – BANGLADESH – ECR™ T60 x 12 Units (43.000m³/day)",
+        "description": "The Dhaka Textile Industry Complex built a central plant with 43,000 m3/day capacity to handle wastewater from numbers of running textile factories.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "Uniphos Colombia – ECR™ T20 x 5 Units",
+        "description": "The project is situated in Barranquilla, Colombia. The waste water is from the discharge of the agro-chemical industries with capacity 2500 m3/day.",
+        "image": "/projects/uniphos-colombia.jpg"
+      },
+      {
+        "title": "Belgo Beer Brewery, Kizuna 2 - Vietnam",
+        "description": "Waste Water Treatment Plant for Beer Brewery Located in Kizuna 2 Industrial Park Vietnam with 2m3/h Capacity. Utilizing ECR as pre-treatment before Membrane Bio Reactors.",
+        "image": "/projects/belgo-beer.jpg"
+      },
+      {
+        "title": "PT Bandung Sakura Textill Mills - Bandung",
+        "description": "Provision of Waste Water Treatment Plant for Textille Waste Water Located in Bandung, Indonesia with 40 m3/h Capacity. Utilizing Staged Contaminant Removal, using EC, DAF, Aerobic Bio & Multi Media FIlter as polishing.",
+        "image": "/projects/bandung-sakura.jpg"
+      },
+      {
+        "title": "PT POLYTAMA PROPINDO - BLOWDOWN WATER RECOVERY SYSTEM (BWRS)",
+        "description": "The project is situated in Indramayu, Indonesia. Recovery of Blowdown Cooling Tower water into Demin Water Quality with capacity 10 m3/Hour.",
+        "image": "/projects/polytama.jpg"
+      },
+      {
+        "title": "PT LABDA ANUGERAH BALI - PRINTING TEXTILLE WASTE WATER",
+        "description": "The project is situated in Denpasar Utara, Bali. Provision of Printing Textille waste Water Treatment utilizing Sequenching Batch Reactor (SBR)",
+        "image": "/projects/labda-anugrah.jpg"
+      },
+      {
+        "title": "i-Land INDUSTRIAL PARK - CETP",
+        "description": "The project is situated in Bago, Myanmar . Provision of Central Effluent Treatment Plant (CETP) for various Waste Water within I-Land Industrial park with capacity 20 m3/hr.",
+        "image": "/projects/iland-industrial.jpg"
+      },
+      {
+        "title": "SOCIAL SECURITY SYSTEM Inc. - DOMESTIC WASTE WATER",
+        "description": "Located in the heart of Manila City, Phillipines. we successfully commissioned a Domestic Waste Water treatment utilizing EC as Retrofit Project with capacity 20 m3/hr.",
+        "image": "/projects/social-security.jpg"
+      },
+      {
+        "title": "DAN ERICS GRAND ICE CREAM INC.",
+        "description": "Located in the heart of Paranaque City, Phillipines. we successfully commissioned an Ice Cream Waste Water treatment utilizing EC as Retrofit Project with capacity 2 m3/hr.",
+        "image": "/projects/dan-erics.jpg"
+      },
+      {
+        "title": "VERCLEAN - A LAUNDRY WASTE WATER TREATMENT",
+        "description": "Located in the heart of Manila City, Phillipines. we successfully commissioned a Laundry Waste Water treatment utilizing EC as Retrofit Project with capacity 2 m3/hr.",
+        "image": "/projects/verclean.jpg"
+      }
+    ],
+    "oilgas": [
+      {
+        "title": "ExxonMobil Cepu Limited",
+        "description": "Provision of Drilling Exploration Waste Water with capacity 1000m3/day.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "PT PERTAMINA EP ASSET 3",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "INDON CBM LIMITED",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "PT BANGGAI CENTRAL SULAWESI ",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "PT HOLCIM INDONESIA TBK.",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "MONTD’OR SALAWATI LIMTED",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "LAPINDO BRANTAS INC.",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "KSO PERTAMINA EP - PD MIGAS KOTA BEKASI",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "PT PERTAMINA EP - CEPU",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "EXXON MOBIL",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      },
+      {
+        "title": "PERTAMINA HULU ROKAN (PHR) - RIAU",
+        "description": "Provision of Drilling Exploration Waste Water with 20feet Containerised Mobile unit consist of EC & Membrane System.",
+        "image": "/projects/cetp-dhaka.jpg"
+      }
+    ]
+  }
+}

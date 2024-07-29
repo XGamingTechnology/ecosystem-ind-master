@@ -1,0 +1,63 @@
+{
+  "about-eco": "About Ecosystem International",
+  "vision-mission": "Vision & Mission",
+  "what-we-believe": "What We Believe?",
+  "vision": "<strong>Our Vision</strong> is to become the leading international company providing waste water treatment in Indonesia.",
+  "mission": "<strong>Our Mission</strong> is to be the first choice for various industrial needs, providing customer satisfaction through our professional team. Our focus is on regular improvements in operational efficiency, strategic alignment of business activities and distribution network development. In this case, we ensure the success and continuous development of the company.",
+  "about-us": "About Us",
+  "about-us-desc": "PT Ecosystems International is a subsidiary of a Singaporean company, namely Trident-flo Pte. Ltd. Our main specialty is processing industrial liquid waste by integrating various technologies and systems, including our own patented technology, namely the Electro Contaminant Removal (ECR™) system.",
+  "certification": "Certifications",
+  "our-journey": "Our <span> Journey </span>",
+  "journeys": [
+    {
+      "year": "2005",
+      "title": "Trident Water Systems Pte. Ltd first established",
+      "description": "The first ECR unit was built and patented after years of study and experiment."
+    },
+    {
+      "year": "2006",
+      "title": "PT Ecosystems International first established",
+      "description": "First oil & gas wastewater treatment project by deploying ECR unit.",
+      "highlight": true
+    },
+    {
+      "year": "2012",
+      "title": "PT Ecosystems International first established",
+      "description": "The Dhaka Textile Industry Complex built a central plant with 43.000 m3/day capacity to handle wastewater from numbers of running textile factories."
+    },
+    {
+      "year": "2021",
+      "title": "Solar Impulse – March 2021",
+      "description": "ECR has been certified by Solar Impulse as part of Sustainable Technology integrated with UN SDG Programs"
+    },
+    {
+      "year": "Today",
+      "title": "Over 220 world-wide installations",
+      "description": "Including SEA, South America, South Korea and China",
+      "highlight": true
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mr. Jamie Tanner",
+      "title": "Director BW Energy Services (Kazakhstan)",
+      "description": "<p>Trident-Flo and PT Ecosystems International have provided us with water treatment systems that require the highest standards of design to be able to work in the harshest of weather environment of Kazakhstan. <br /> <br /> Credit to them for being able to achieve this. We are exploring many other opportunities in Kazakhstan and Central Asia where a company like Trident-Flo and PT Ecosystems International can have a big impact to provide solutions to many challenges in the water and waste water sectors. </p>",
+      "image": "/testimonials/anon.png"
+    },
+    {
+      "name": "Benny Irawan",
+      "title": "PT Polytama Propindo",
+      "image": "/testimonials/anon.png",
+      "description": "-"
+    },
+    {
+      "name": "His Excellency Nico Barito",
+      "title": "Special Envoy of The President of Seychelles to ASEAN.",
+      "description": "<p> I have been associated with them during my pass engagement under the World Bank program on the hazardous waste water treatment in Indonesia, followed by series of public private clean water and sanitation program. <br /> <br /> Mr Theron Madhavan, the CEO of the company has been my longstanding friend for over 15 years now. Our acquaintances have been productive and realizing numerous public and private water and waste water sector. <br /> <br />I have nothing to say, but praise and admiration for the professional and competent solutions the company will provide, when it comes to water and sanitation </p>",
+      "image": "/testimonials/anon.png"
+    }
+  ],
+  "thought-leader": "Thought Leader for EC Application",
+  "thought-leader-sub": " Providing the top product quality and partnership level of customer services all over the world including Indonesia.",
+  "what-they-said": "What They Say About Us?"
+}

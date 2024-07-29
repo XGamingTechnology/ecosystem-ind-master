@@ -1,0 +1,21 @@
+{
+  "menus": [
+    { "title": "Tentang Kami", "href": "/about" },
+    { "title": "Produk Kami", "href": "/product" },
+    { "title": "Proyek Kami", "href": "/project" },
+    { "title": "Hubungi Kami", "href": "/contact" }
+  ],
+  "footer": {
+    "contact": "Kontak",
+    "business": "Aktifitas Bisnis",
+    "about": "PT ESI adalah perusahaan milik asing dan merupakan cabang dari Trident Water Systems Pte. Ltd., Singapura. Kami memberikan solusi pengolahan limbah cair industri dengan teknologi, teknik dan pengalaman serta kemampuan manajemen proyek yang baik.",
+    "activities": [
+      "Desain Sistem, Integrasi & Penjualan Peralatan",
+      "Kontrak Sistem (BOO/BOT)",
+      "Engineering, Pengadaan & Konstruksi"
+    ]
+  },
+  "general": {
+    "readmore": "Baca Selengkapnya"
+  }
+}

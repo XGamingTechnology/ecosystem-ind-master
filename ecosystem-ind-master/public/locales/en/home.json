@@ -1,0 +1,63 @@
+{
+  "main": "Redefining <br/> Waste Water <br/> Treatment",
+  "main-sub": "Most of the Earth is made up of water. We are surrounded by the oceans, seas, rivers, lakes, reservoirs and beneath us numerous aquifers and caverns but yet we are constantly short of CLEAN POTABLE WATER.",
+  "choose-us": "Why Choose Us",
+  "choose-us-sub": "We reached here with our hard work and dedication",
+  "about-us": "About Us",
+  "about-us-tag": "Electro Coagulation Specialist - Non Chemical Treatment Technology",
+  "about-us-sub": "We specialize in the field of waste water treatment. Founded in 2007, with a lot of experience in the Oil & Gas, Textile, Electro Plating and various other industrial sectors. Together with our parent company, Trident Water Systems, Pte., Ltd. has contributed to more than 220 Trident ECR® installations in many countries.",
+  "our-clients": "Our Clients",
+  "our-clients-sub": "We have been working with Fortune 50+ clients",
+  "milestones": [
+    {
+      "icon": "/milestone-1.svg",
+      "text": "World Wide ECR® Installation",
+      "description": "250 installation of Electro Contaminant Removal (ECR) has been done by PT ESI.",
+      "number": 250
+    },
+    {
+      "icon": "/milestone-2.svg",
+      "text": "World Wide Projects",
+      "description": "As per today, PT ESI has more than 500 world wide project in Water Management (Water Treatment & Waste Water Treatment).",
+      "number": 500
+    },
+    {
+      "icon": "/milestone-3.svg",
+      "text": "Zero Accident Hours",
+      "description": "PT Ecosystems International has completing 500.000 hours of Zero Accident as commitment to Safety Awareness.",
+      "number": 500000
+    }
+  ],
+  "activities": [
+    {
+      "icon": "/activities-1.svg",
+      "title": "System Design, Integration & Equipment Sales",
+      "description": [
+        "Trident ECR System",
+        "Advance Oxidation Process (AOP)",
+        "Membrane Filtration System",
+        "Containerized Waste Water Treatment Solution",
+        "Other Waste Water Treatment Solutions"
+      ]
+    },
+    {
+      "icon": "/activities-2.svg",
+      "title": "SERVICE CONTRACT (OIL & GAS)",
+      "description": [
+        "Waste water treatment for drilling and exploration",
+        "Produced water treatment",
+        "Mobile effluent treatment system",
+        "BOO/BOOT Projects"
+      ]
+    },
+    {
+      "icon": "/activities-3.svg",
+      "title": "ENGINEERING PROCUREMENT CONSTRUCTION (EPC)",
+      "description": [
+        "Individual and central effluent treatment plants (ETP)",
+        "Upgrading of existing ETP",
+        "Sewage Treatment Plants"
+      ]
+    }
+  ]
+}
